@@ -1,0 +1,20 @@
+# Ignore Python cache
+__pycache__/
+**/__pycache__/
+
+# Ignore Python compiled files
+*.pyc
+*.pyo
+*.pyd
+
+# Environments
+.env
+venv/
+.venv/
+
+# Docker
+*.log
+
+# IDE / Editor files
+.vscode/
+.idea/
